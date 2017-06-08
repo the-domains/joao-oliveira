@@ -23,3 +23,9 @@ content: []
 title: Joao Oliveira
 description: ''
 github: true
+author:
+  name: Joao Oliveira
+  email: joao@nicolauoliveira.com
+  url: 'https://www.linkedin.com/in/jnicolau/'
+analytics:
+  twitter: Olive Computations Limited
