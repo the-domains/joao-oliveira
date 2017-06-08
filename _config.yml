@@ -1,0 +1,25 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Joao Oliveira
+layout_spectrum: 0.8102404996752739
+typography_spectrum: 0.40696919127367437
+color:
+  brandStrength: 0.8408571439795196
+  lightness: 0.6524261124432087
+  saturation: 0.3647307197097689
+  rhythmicContrast: 0.0013426782097667456
+  brandColors:
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+content: []
+title: Joao Oliveira
+description: ''
+github: true
